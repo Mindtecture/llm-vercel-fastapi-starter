@@ -80,6 +80,9 @@ This repository serves as:
 
 It intentionally avoids frontend frameworks and advanced features so the core deployment pattern remains easy to understand.
 
+### ⚠️ Note
+This project demonstrates production-style patterns in a minimal setup, but it is not a complete production system.
+
 ---
 
 ## License
